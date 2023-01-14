@@ -17,7 +17,6 @@ Copyleft 2001 by D.H.Grand(nOBODY/Ginux), 2010 by Gasolin, 2015 by Ryan Wu
 
 本文另有[繁體中文版](README.md)。
 
-## [原文版本历史](history.md)
 
 ## 目录
   * [声明](#声明)
